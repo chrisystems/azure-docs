@@ -14,7 +14,7 @@ With continuous monitoring, release pipelines can incorporate monitoring data fr
 
 ## Configure continuous monitoring
 
-1. In [Azure DevOps](https://dev.azure.com), select an organization and project.
+1. In [Azure DevOps](https://dev.azure.com), select an organizations and projects.
    
 1. On the left menu of the project page, select **Pipelines** > **Releases**. 
    
